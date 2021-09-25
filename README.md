@@ -1,0 +1,1 @@
+This is about the center point where hardware and software embrace each other. The place where software take a decision and a hardware come to action. That's all. A microcontroller control a task for time as we want. Sense values take decision gave commands.
